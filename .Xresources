@@ -1,0 +1,19 @@
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+////urxvtc
+
+URxvt.depth: 32
+URxvt.scrollBar: false
+URxvt*foreground: #FFFFFF
+URxvt*background: #161616
+URxvt.colorUL: #4682B4
+URxvt.iconFile:    /home/art-attack/.config/awesome/themes/default/flattr-icons-master/apps/scalable/terminal.svg
+urxvt*internalBorder: 10
+urxvt*cursorBlink: true
+
