@@ -1,10 +1,14 @@
-Arch linux config files for awesome_wm 3.5
+**Config files for awesome_wm_ 3.5**
 
-You should change the name "art-attack" to your your username in awesome_wm config files(i.e rc.lua and theme.lua) which is inside the .config/awesome directory to make it work properly and remember copy the all dotfiles(eg- .Xresources) in your home folder.
+TODO
+==========
 
-**Stuffs i have used/done in my config files**
+You should change the name "art-attack" to your your username and also change the wireless and ethernet interfaces to your one in awesome_wm config files(i.e rc.lua and theme.lua) which is in .config/awesome directory.
 
-Don't worry i already set all those,u just need install this packages:
+Remember copy all the dotfiles in your home and files that is in .config directory should be in your .config directory(which is already exist in your home).
+
+INSTALLATION
+--------------
 
 *arch users*
 
@@ -25,11 +29,11 @@ Don't worry i already set all those,u just need install this packages:
 - rxvt-unicode (terminal)
 
 
-And if u want to set **GTK** themes and also icons like me (see it down.. snapshots)
+And if u want to use **GTK** themes and also icons like me (see it down.. snapshots)
 
 then,take a look at this.. here_
 
-And after all completes.. make a reboot to your computer so as to take a change in *Awesome_WM_*.
+And after all completes.. make a restart to your WM or simply reboot your computer.
 
 
 Snapshots
@@ -48,5 +52,5 @@ and here my .Xresources config (terminal display)
 thank u..
 
 .. _here: http://awesome.naquadah.org/wiki/Customizing_GTK_Apps
-.. _Awesome_WM: http://awesome.naquadah.org/wiki/Main_Page
+.. _awesome_wm: http://awesome.naquadah.org/wiki/Main_Page
 .. _compton: https://github.com/chjj/compton
