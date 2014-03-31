@@ -1,5 +1,8 @@
 **Config files for awesome_wm_ 3.5**
 
+:Author: Arpan Biswas
+
+
 TODO
 ==========
 
