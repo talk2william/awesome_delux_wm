@@ -15,11 +15,11 @@ INSTALLATION
 
 *arch users*
 
- # sudo pacman -S compton alsa-utils rxvt-unicode
+ # sudo pacman -S compton alsa-utils rxvt-unicode scrot
 
 *ubuntu users*
 
- # sudo apt-get install rxvt alsa-utils
+ # sudo apt-get install rxvt alsa-utils scrot
 
  # sudo apt-add-repository ppa:richardgv/compton
 
@@ -31,12 +31,20 @@ INSTALLATION
 
 - rxvt-unicode (terminal)
 
+- scrot (take screenshot)
 
 And if u want to use **GTK** themes and also icons like me (see it down.. snapshots)
 
 then,take a look at this.. here_
 
 And after all completes.. make a restart to your WM or simply reboot your computer.
+
+KEYS BINDINGS
+-----------------
+
+use "print scrn" button to take a screenshot of your WM
+
+use "alt+up_arrow/down_arrow" to increase or decrease volume
 
 
 Snapshots
