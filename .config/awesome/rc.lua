@@ -282,6 +282,15 @@ globalkeys = awful.util.table.join(
             end
         end),
 
+   -- PrintScrn to capture a screen
+   awful.key(
+       {},
+       "Print",
+       function()
+           awful.util.spawn("scrot -cd 1",false)
+       end
+   ),
+
     -- Standard program
     awful.key({ modkey,           }, "Return", function () awful.util.spawn(terminal) end),
     awful.key({ modkey, "Control" }, "r", awesome.restart),
