@@ -42,7 +42,7 @@ And after all completes.. make a restart to your WM or simply reboot your comput
 KEYS BINDINGS
 -----------------
 
-use "print scrn" button to take a screenshot of your WM.
+use "print scrn" button to take screenshots of your WM.
 
 use "alt+up_arrow/down_arrow" to increase or decrease volume.
 
